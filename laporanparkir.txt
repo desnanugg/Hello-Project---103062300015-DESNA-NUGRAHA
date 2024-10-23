@@ -1,0 +1,13 @@
+Daftar Kendaraan yang Sudah Ditambahkan Tiket Parkir:
+1. A1234AB - mobil
+   Waktu Masuk: 2024-06-12 09:00, Waktu Keluar: 2024-06-12 12:00, Total Pembayaran: 15000.00
+2. B1234AB - mobil
+   Waktu Masuk: 2024-06-12 12:00, Waktu Keluar: 2024-06-12 15:00, Total Pembayaran: 15000.00
+3. C1234CE - mobil
+   Waktu Masuk: 2024-06-12 15:00, Waktu Keluar: 2024-06-12 17:00, Total Pembayaran: 10000.00
+4. D1234DE - mobil
+   Waktu Masuk: 2024-06-12 18:00, Waktu Keluar: 2024-06-12 21:00, Total Pembayaran: 15000.00
+
+Total Mobil: 4
+Total Motor: 0
+Total Saldo: 55000.00
